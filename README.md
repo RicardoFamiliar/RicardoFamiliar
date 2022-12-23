@@ -8,7 +8,7 @@ SMALL ICONS
 --->
 <br/>
 <p align="center">
-<a href='mailto:ricardofamiliar@hotmail.com' target="_blank"><img alt='Hotmail' src='https://img.shields.io/badge/Hotmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+<a href='mailto:ricardofamiliar@hotmail.com' target="_blank"><img alt='Hotmail' src='https://img.shields.io/badge/Hotmail-100000?style=flat&logo=Hotmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
 <a href='https://www.linkedin.com/in/RicardoFamiliar/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </a>
