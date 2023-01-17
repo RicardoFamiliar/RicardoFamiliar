@@ -3,7 +3,7 @@
 - 👨‍💻 Working as a Full Stack Developer and VBA Support at [**NOS sgps**](https://www.nos.pt/).
 - 🛠️ 2 years of work experience on Data analysis, management and software implementation.`SQL`;`SAP`;`C++` - (Engitop, Ocean Formula turbo and Yazaki).
 - 🚀 Interested in `Games`,`Football`,`AI`,`Science`,`Data analysis`, `Hacking CTFs` and `Innovation`. 
-- 📫 How to reach me : **ricardofamiliar@hotmail.com** or [**LinkedIn**]( www.linkedin.com/in/RicardoFamiliar/).
+- 📫 How to reach me : **ricardofamiliar@hotmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ricardofamiliar/).
 
 <!---
 SMALL ICONS
