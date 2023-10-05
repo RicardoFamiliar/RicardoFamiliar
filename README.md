@@ -23,7 +23,7 @@ SMALL ICONS
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,java,js,py,c,cpp,ts,visualstudio,git,github,powershell,bash,linux,vim,vscode,ps,au" />
+    <img src="https://skillicons.dev/icons?i=mysql,java,js,py,c,cpp,ts,visualstudio,git,vscode" />
   </a>
 </p>
 
