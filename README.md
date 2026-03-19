@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RicardoFamiliar!
-- 🎓 I’m studying at [**42 Porto**](https://www.42porto.com) and finishing a marketing degree on [**ISCAP - Instituto Superior de Contabilidade e Administração do Porto**](https://www.iscap.ipp.pt/).
-- 👨‍💻 Working as a Full Stack Developer and VBA Support at [**NOS sgps**](https://www.nos.pt/).
-- 🛠️ 3 years of work experience on Data analysis, management and software implementation.`SQL`;`SAP`;`C++` - (Engitop, Ocean Formula turbo and Yazaki).
+- 🎓 I have a Professional Course in Information Systems and Management. Studied for three months at [**42 Porto**](https://www.42porto.com) and currently finishing a marketing degree on [**ISCAP - Instituto Superior de Contabilidade e Administração do Porto**](https://www.iscap.ipp.pt/).
+- 👨‍💻 Working as a Software Solutions Engineer for [**Domino Printing Sciences**](https://www.domino-printing.com/)
+- 🛠️ 6 years of work experience on Data Management and analysis, management and software implementation.`SQL`;`SAP`;`C++` - (Engitop, Ocean Formula turbo and Yazaki).
 - 🚀 Interested in `Games`,`Football`,`AI`,`Science`,`Data analysis`, `Hacking CTFs` and `Innovation`. 
 - 📫 How to reach me : **ricardofamiliar@hotmail.com** or [**LinkedIn**](https://www.linkedin.com/in/ricardofamiliar/).
 
